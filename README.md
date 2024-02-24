@@ -32,7 +32,7 @@ Year|Dataset|Type|Pub|Description
 Year|Dataset|Tag|Pub|Description
 -----|----|-----|-----|-----
 2019|[RUIE](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)|![Image](https://img.shields.io/badge/-Image-brightgreen)|TCSVT| It contains a subset dataset, UHTS, which contains 300 images embodying three classes of sea life, i.e., **scallop**, **sea cucumbers** and **sea urchins**.
-
+2021|[DUO](https://github.com/chongweiliu/DUO)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICME| It contains 7782 images, where 6671 for training and 1111 for testing. all the images come from historical URPC datasets and UDD dataset, i.e., **echinus**, **holothurian**, **starfish** and **scallop**.
 
 ## Semantic Segmentation.
 Year|Dataset|Tag|Pub|Description
