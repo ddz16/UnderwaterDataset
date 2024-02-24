@@ -34,7 +34,9 @@ Year|Dataset|Tag|Pub|Description
 2019|[RUIE](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)|![Image](https://img.shields.io/badge/-Image-brightgreen)|TCSVT| It contains a subset dataset, UHTS, which contains 300 images embodying three classes of sea life, i.e., **scallop**, **sea cucumbers** and **sea urchins**.
 2021|[DUO](https://github.com/chongweiliu/DUO)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICME| It contains 7782 images, where 6671 for training and 1111 for testing. All the images come from historical [URPC](https://openi.pcl.ac.cn/OpenOrcinus_orca) datasets and UDD dataset, i.e., **echinus**, **holothurian**, **starfish** and **scallop**.
 
+
 ## Semantic Segmentation.
 Year|Dataset|Tag|Pub|Description
 -----|----|-----|-----|-----
 2020|[SUIM](https://irvlab.cs.umn.edu/resources/suim-dataset)|![Image](https://img.shields.io/badge/-Image-brightgreen)|IROS| It contains over 1500 images with pixel annotations for eight object categories: **fish (vertebrates)**, **reefs (invertebrates)**, **aquatic plants**, **wrecks/ruins**, **human divers**, **robots**, and **sea-floor**.
+2020|[TrashCan](https://conservancy.umn.edu/handle/11299/214865)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICME| It contains 7212 images and four big classes: **trash**(any marine debris), **rov**(any man-made item intentionally placed in the scene), **bio**(plants and animals) and **unknown**(used to mark unknown objects). Trash objects were additionally tagged by material (e.g., metal, plastic), instance (e.g., cup, bag, container), along with binary tags indicating overgrowth, significant decay, or crushed/broken items. Bio objects were tagged as either plant or animal, and in the case of animals, given a tag with the type (**crab**, **fish**, **eel**, **shells**, **starfish**, **etc**). ROV and unknown class objects required no additional tags.
