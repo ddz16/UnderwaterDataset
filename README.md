@@ -31,6 +31,7 @@ Year|Dataset|Type|Pub|Description
 ## Object Detection.
 Year|Dataset|Tag|Pub|Description
 -----|----|-----|-----|-----
+2015|[FishCLEF-2015](http://www.perceivelab.com/datasets)|![Video](https://img.shields.io/badge/-Video-red)|None| It includes 93 videos, manually-annotated with fish locations (as bounding boxes) and species. In total the dataset contains more than 14,000 annotations and 15 classes of fish.
 2019|[RUIE](https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark)|![Image](https://img.shields.io/badge/-Image-brightgreen)|TCSVT| It contains a subset dataset, UHTS, which contains 300 images embodying three classes of sea life, i.e., **scallop**, **sea cucumbers** and **sea urchins**.
 2021|[DUO](https://github.com/chongweiliu/DUO)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICME| It contains 7782 images, where 6671 for training and 1111 for testing. All the images come from historical [URPC](https://openi.pcl.ac.cn/OpenOrcinus_orca) datasets and UDD dataset, i.e., **echinus**, **holothurian**, **starfish** and **scallop**.
 
@@ -45,4 +46,5 @@ Year|Dataset|Tag|Pub|Description
 Year|Dataset|Tag|Pub|Description
 -----|----|-----|-----|-----
 2012|[Fish4Knowledge](https://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/GROUNDTRUTH/RECOG/)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICPR| It consists of 1000 fish categories with 54,459 unconstrained images.
+2015|[FishCLEF-2015](http://www.perceivelab.com/datasets)|![Video](https://img.shields.io/badge/-Video-red)|None| It 20,000 sample images and 15 classes of fish.
 2018|[WildFish](https://github.com/PeiqinZhuang/WildFish)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ACMMM| It consists of 27370 verified fish images. The whole dataset is divided into 23 clusters and each cluster is presented by a representative species, which is based on the synapomorphies characteristic from the extent that the taxon is monophyletic.
