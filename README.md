@@ -40,3 +40,8 @@ Year|Dataset|Tag|Pub|Description
 -----|----|-----|-----|-----
 2020|[SUIM](https://irvlab.cs.umn.edu/resources/suim-dataset)|![Image](https://img.shields.io/badge/-Image-brightgreen)|IROS| It contains over 1500 images with pixel annotations for eight object categories: **fish (vertebrates)**, **reefs (invertebrates)**, **aquatic plants**, **wrecks/ruins**, **human divers**, **robots**, and **sea-floor**.
 2020|[TrashCan](https://conservancy.umn.edu/handle/11299/214865)|![Image](https://img.shields.io/badge/-Image-brightgreen)|None| It contains 7212 images and four big classes: **trash**(any marine debris), **ROV**(any man-made item), **bio**(plants and animals) and **unknown**(unknown objects). Trash objects were additionally tagged by material (e.g., metal, plastic), instance (e.g., cup, bag), along with binary tags indicating overgrowth, significant decay, or crushed/broken items. Bio objects are plants or animals, and in the case of animals, having six classes (**crab**, **fish**, **eel**, **shells**, **starfish**, **etc**). ROV and unknown objects have no additional tags.
+
+## Classification.
+Year|Dataset|Tag|Pub|Description
+-----|----|-----|-----|-----
+2018|[WildFish](https://github.com/PeiqinZhuang/WildFish)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ACMMM| It consists of 1000 fish categories with 54,459 unconstrained images.
