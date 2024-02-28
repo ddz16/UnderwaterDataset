@@ -41,6 +41,7 @@ Year|Dataset|Tag|Pub|Description
 2019|[Brackish](https://tianchi.aliyun.com/dataset/93749)|![Video](https://img.shields.io/badge/-Video-red)|CVPRW| 89 videos are provided with annotations in the AAU Bounding Box, YOLO Darknet, and MS COCO formats. Fish are annotated in 6 different coarse categories, i.e., **fish**, **small_fish**, **crab**, **shrimp**, **jellyfish**, and **starfish**.
 2019|[Trash-ICRA19](https://conservancy.umn.edu/handle/11299/214366)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICRA| Some videos were processed to extract 5,700 images, which comprise this dataset, all labeled with bounding boxes on instances of **trash**, **biological objects** such as plants and animals, and **ROVs**.
 2021|[DUO](https://github.com/chongweiliu/DUO)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICME| It contains 7782 images, where 6671 for training and 1111 for testing. All the images come from historical [URPC](https://openi.pcl.ac.cn/OpenOrcinus_orca) datasets and UDD dataset, i.e., **echinus**, **holothurian**, **starfish** and **scallop**.
+2023|[FishNet](https://fishnet-2023.github.io/)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICCV| It contains 94,532 meticulously organized images from 17,357 aquatic species, organized according to aquatic biological taxonomy (order, family, genus, and species). All instances in each image are labelled bounding boxes, resulting in 114,375 object instances.
 
 
 ## Object Tracking.
@@ -54,16 +55,7 @@ Year|Dataset|Tag|Pub|Description
 -----|----|-----|-----|-----
 2020|[SUIM](https://irvlab.cs.umn.edu/resources/suim-dataset)|![Image](https://img.shields.io/badge/-Image-brightgreen)|IROS| It contains over 1500 images with pixel annotations for eight object categories: **fish (vertebrates)**, **reefs (invertebrates)**, **aquatic plants**, **wrecks/ruins**, **human divers**, **robots**, and **sea-floor**.
 2020|[TrashCan](https://conservancy.umn.edu/handle/11299/214865)|![Image](https://img.shields.io/badge/-Image-brightgreen)|None| It contains 7212 images and four big classes: **trash**(any marine debris), **ROV**(any man-made item), **bio**(plants and animals) and **unknown**(unknown objects). Trash objects were additionally tagged by material (e.g., metal, plastic), instance (e.g., cup, bag), along with binary tags indicating overgrowth, significant decay, or crushed/broken items. Bio objects are plants or animals, and in the case of animals, having six classes (**crab**, **fish**, **eel**, **shells**, **starfish**, **etc**). ROV and unknown objects have no additional tags.
-2023|[UIIS](https://github.com/LiamLian0727/WaterMask)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICCV| It contains 4,628 images for 7 categories with pixel-level annotations for underwater instance segmentation task: **Fish**(Fish and other vertebrates), **Reefs**(Coral reefs and other invertebrates), **Aquatic plants**( Aquatic plants and flora), **Wrecks/ruins**( Underwater damaged man-made artifacts), **Human divers**( Human and the diving equipment they carry), **Robots**( AUV, ROV and other underwater robots), and **Sea-floor**(Sea-floor Rocks and reefs on the seafloor)
-
-
- 
- 
-
-
-
-
-
+2023|[UIIS](https://github.com/LiamLian0727/WaterMask)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICCV| It contains 4,628 images for 7 categories with pixel-level annotations for underwater instance segmentation task: **Fish**(Fish and other vertebrates), **Reefs**(Coral reefs and other invertebrates), **Aquatic plants**( Aquatic plants and flora), **Wrecks/ruins**( Underwater damaged man-made artifacts), **Human divers**( Human and the diving equipment they carry), **Robots**( AUV, ROV and other underwater robots), and **Sea-floor**(Sea-floor Rocks and reefs on the seafloor).
 
 
 ## Classification.
@@ -72,3 +64,4 @@ Year|Dataset|Tag|Pub|Description
 2012|[Fish4Knowledge](https://homepages.inf.ed.ac.uk/rbf/Fish4Knowledge/GROUNDTRUTH/RECOG/)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICPR| It consists of 27370 verified fish images. The whole dataset is divided into 23 clusters and each cluster is presented by a representative species, which is based on the synapomorphies characteristic from the extent that the taxon is monophyletic.
 2015|[FishCLEF-2015](http://www.perceivelab.com/datasets)|![Video](https://img.shields.io/badge/-Video-red)|None| It consists of 20,000 sample images and 15 fish categories.
 2018|[WildFish](https://github.com/PeiqinZhuang/WildFish)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ACMMM| It consists of 1000 fish categories with 54,459 unconstrained images.
+2023|[FishNet](https://fishnet-2023.github.io/)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICCV| It contains 94,532 meticulously organized images from 17,357 aquatic species, organized according to aquatic biological taxonomy (order, family, genus, and species).
