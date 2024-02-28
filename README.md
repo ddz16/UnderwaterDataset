@@ -54,6 +54,17 @@ Year|Dataset|Tag|Pub|Description
 -----|----|-----|-----|-----
 2020|[SUIM](https://irvlab.cs.umn.edu/resources/suim-dataset)|![Image](https://img.shields.io/badge/-Image-brightgreen)|IROS| It contains over 1500 images with pixel annotations for eight object categories: **fish (vertebrates)**, **reefs (invertebrates)**, **aquatic plants**, **wrecks/ruins**, **human divers**, **robots**, and **sea-floor**.
 2020|[TrashCan](https://conservancy.umn.edu/handle/11299/214865)|![Image](https://img.shields.io/badge/-Image-brightgreen)|None| It contains 7212 images and four big classes: **trash**(any marine debris), **ROV**(any man-made item), **bio**(plants and animals) and **unknown**(unknown objects). Trash objects were additionally tagged by material (e.g., metal, plastic), instance (e.g., cup, bag), along with binary tags indicating overgrowth, significant decay, or crushed/broken items. Bio objects are plants or animals, and in the case of animals, having six classes (**crab**, **fish**, **eel**, **shells**, **starfish**, **etc**). ROV and unknown objects have no additional tags.
+2023|[UIIS](https://github.com/LiamLian0727/WaterMask)|![Image](https://img.shields.io/badge/-Image-brightgreen)|ICCV| It contains 4,628 images for 7 categories with pixel-level annotations for underwater instance segmentation task: **Fish**(Fish and other vertebrates), **Reefs**(Coral reefs and other invertebrates), **Aquatic plants**( Aquatic plants and flora), **Wrecks/ruins**( Underwater damaged man-made artifacts), **Human divers**( Human and the diving equipment they carry), **Robots**( AUV, ROV and other underwater robots), and **Sea-floor**(Sea-floor Rocks and reefs on the seafloor)
+
+
+ 
+ 
+
+
+
+
+
+
 
 ## Classification.
 Year|Dataset|Tag|Pub|Description
