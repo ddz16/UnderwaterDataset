@@ -9,6 +9,7 @@ Each dataset contains the following types of data:
 ![Video](https://img.shields.io/badge/-Video-red)
 ![Paired](https://img.shields.io/badge/-Paired-blue)
 ![RawOnly](https://img.shields.io/badge/-RawOnly-pink)
+![DeepSea](https://img.shields.io/badge/-DeepSea-grown)
 ![Depth](https://img.shields.io/badge/-Depth-orange)
 ![Synthetic](https://img.shields.io/badge/-Synthetic-purple)
 ![Instance](https://img.shields.io/badge/-Instance-yellow)
@@ -32,7 +33,7 @@ Year|Dataset|Type|Pub|Description
 2022|[LNRUD](https://github.com/Ephemeral182/UWNR)|![Image](https://img.shields.io/badge/-Image-brightgreen)![Paired](https://img.shields.io/badge/-Paired-blue)![Synthetic](https://img.shields.io/badge/-Synthetic-purple)|CVPRW| It contains 50000 clean images and 50000 corresponding underwater images synthesized from 5000 real underwater scene images and UWNR (Underwater Neural Rendering).
 2023|[LSUI](https://lintaopeng.github.io/_pages/UIE%20Project%20Page.html)|![Image](https://img.shields.io/badge/-Image-brightgreen)![Paired](https://img.shields.io/badge/-Paired-blue)|TIP| A large-scale underwater image dataset including 4279 pairs of raw underwater images and corresponding high-quality reference images.
 2023|[DRUVA](https://github.com/nishavarghese15/DRUVA)|![Video](https://img.shields.io/badge/-Video-red)![RawOnly](https://img.shields.io/badge/-RawOnly-pink)|ICCV| It contains 20 videos of 20 different artifacts (artifacts are mainly submerged rocks of dimension 0.5 meter to 1 meter) in shallow waters. The videos are approximately 1 minute long and contain an almost 360◦ azimuthal view of the artifacts at a depth of 0.5 meter to 4 meters from the camera.
-2023|[NUID](https://github.com/Hou-Guojia/ICSP)|![Image](https://img.shields.io/badge/-Image-brightgreen)|TCSVT| It contains 925 real underwater images of different non-uniform illumination.
+2023|[NUID](https://github.com/Hou-Guojia/ICSP)|![Image](https://img.shields.io/badge/-Image-brightgreen)![DeepSea](https://img.shields.io/badge/-DeepSea-grown)|TCSVT| It contains 925 real underwater images of different non-uniform illumination.
 
 ## Object Detection.
 Year|Dataset|Tag|Pub|Description
