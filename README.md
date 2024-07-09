@@ -53,6 +53,8 @@ Year|Dataset|Tag|Pub|Description
 Year|Dataset|Tag|Pub|Description
 -----|----|-----|-----|-----
 2021|[UOT100](https://www.kaggle.com/datasets/landrykezebou/uot100-underwater-object-tracking-dataset/data)|![Video](https://img.shields.io/badge/-Video-red)|IJOE| It consists of 104 video sequences and over 74 000 annotated frames.
+2023|[UVOT400](https://github.com/BasitAlawode/UVOT400)|![Video](https://img.shields.io/badge/-Video-red)|Arxiv| It consists of 400 video segments and 275,000 manually annotated frames enabling underwater training and evaluation of deep trackers. The videos are labelled with several underwater-specific tracking attributes including watercolor variation, target distractors, camouflage, target relative size, and low visibility conditions.
+2024|[WebUOT-1M](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)|![Video](https://img.shields.io/badge/-Video-red)|Arxiv| It comprises 1.1 million frames across 1,500 video clips filtered from 408 target categories with high-quality bounding boxes for underwater targets. Additionally, it includes language prompts for video sequences, expanding its application areas, e.g., underwater vision-language tracking.
 
 
 ## Semantic Segmentation.
@@ -61,7 +63,7 @@ Year|Dataset|Tag|Pub|Description
 2020|[SUIM](https://irvlab.cs.umn.edu/resources/suim-dataset)|![Image](https://img.shields.io/badge/-Image-brightgreen)|IROS| It contains over 1500 images with pixel annotations for eight object categories: **fish (vertebrates)**, **reefs (invertebrates)**, **aquatic plants**, **wrecks/ruins**, **human divers**, **robots**, and **sea-floor**.
 2020|[TrashCan](https://conservancy.umn.edu/handle/11299/214865)|![Image](https://img.shields.io/badge/-Image-brightgreen)![Instance](https://img.shields.io/badge/-Instance-yellow)|None| It contains 7212 images and four big classes: **trash**(any marine debris), **ROV**(any man-made item), **bio**(plants and animals) and **unknown**(unknown objects). Trash objects were additionally tagged by material (e.g., metal, plastic), instance (e.g., cup, bag), along with binary tags indicating overgrowth, significant decay, or crushed/broken items. Bio objects are plants or animals, and in the case of animals, having six classes (**crab**, **fish**, **eel**, **shells**, **starfish**, **etc**). ROV and unknown objects have no additional tags.
 2023|[UIIS](https://github.com/LiamLian0727/WaterMask)|![Image](https://img.shields.io/badge/-Image-brightgreen)![Instance](https://img.shields.io/badge/-Instance-yellow)|ICCV| It contains 4,628 images for 7 categories with pixel-level annotations for underwater instance segmentation task: **Fish**(Fish and other vertebrates), **Reefs**(Coral reefs and other invertebrates), **Aquatic plants**( Aquatic plants and flora), **Wrecks/ruins**( Underwater damaged man-made artifacts), **Human divers**( Human and the diving equipment they carry), **Robots**( AUV, ROV and other underwater robots), and **Sea-floor**(Sea-floor Rocks and reefs on the seafloor).
-
+2024|[USIS10K](https://github.com/LiamLian0727/USIS10K)|![Image](https://img.shields.io/badge/-Image-brightgreen)![Instance](https://img.shields.io/badge/-Instance-yellow)|ICML| It is collected for the task "Salient Instance Segmentation". It contains 10,632 underwater images with pixel-level annotations in 7 categories from various underwater scenes: **Fish**, **Reefs**, **Plants**, **Ruins**, **Human**, **Robot**, and **Seafloor**.
 
 ## Classification.
 Year|Dataset|Tag|Pub|Description
